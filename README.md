@@ -48,7 +48,7 @@ Once the data is been taken into the HDFS now it hould be processes ussing the H
 
 ### Visualizing our Output
 
-![alt text](https://github.com/mayankjn34/Twitter-sentimental-analysis-on-GST/blob/master/Project.JPG "Analysis")
+![alt text](https://github.com/mayankjn34/Twitter-sentimental-analysis-on-GST/blob/master/result_chart.png "Analysis")
 
 
 ## Acknowledgments
